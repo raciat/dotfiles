@@ -6,6 +6,6 @@ My collection of dotfiles.
 
 Configuration is stored in [.bashrc](/.bashrc) file.
 
-#### Vim - .bashrc
+#### Vim
 
 Configuration is stored in [.vimrc](/.vimrc) file.
