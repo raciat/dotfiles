@@ -1,7 +1,7 @@
 " Runtime Path Manipulation: https://github.com/tpope/vim-pathogen
 execute pathogen#infect()
 
- " Get rid of Vi compatibility mode
+" Get rid of Vi compatibility mode
 set nocompatible
 
 " Enable 256-color mode
