@@ -6,3 +6,6 @@ export PS1="\[\e[1;33m\]\u\[\e[1;0m\]@\[\e[1;32m\]\h\[\e[1;0m\]:\w$"
 
 # Expand PATH
 export PATH=$PATH:/opt/local/bin:/opt/local/sbin
+
+# WebStorm LightEdit mode
+alias webstorm='open -na "WebStorm.app" --args "$@"'
