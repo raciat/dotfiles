@@ -20,3 +20,9 @@ alias flushdns="sudo killall -HUP mDNSResponder"
 
 # WebStorm LightEdit mode
 alias webstorm='open -na "WebStorm.app" --args "$@"'
+
+# Alias for Python to use Python3
+alias python='/opt/homebrew/bin/python3.10'
+
+# Alias for Redis Server
+alias redis='redis-server --port 6380'
