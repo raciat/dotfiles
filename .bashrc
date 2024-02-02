@@ -26,3 +26,7 @@ alias python='/opt/homebrew/bin/python3.10'
 
 # Alias for Redis Server
 alias redis='redis-server --port 6380'
+
+# Alias for date
+# brew install coreutils
+alias date='gdate'
