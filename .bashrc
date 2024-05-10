@@ -30,3 +30,6 @@ alias redis='redis-server --port 6380'
 # Alias for date
 # brew install coreutils
 alias date='gdate'
+
+# Alias for DeepLabCut
+alias deeplabcut='conda activate DEEPLABCUT_M1 && pythonw -m deeplabcut'
